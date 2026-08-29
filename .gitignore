@@ -1,0 +1,15 @@
+# MATLAB intermediates (large, regenerable by re-running the pipeline)
+*.asv
+normalized_data.mat
+histogram_data.mat
+aligned_data_with_stats.mat
+
+# Jupyter
+.ipynb_checkpoints/
+__pycache__/
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db

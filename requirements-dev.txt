@@ -1,0 +1,6 @@
+# Needed to regenerate the notebooks from notebook_source/build_notebook.py
+nbformat>=5.9
+nbclient>=0.9
+h5py>=3.8      # reads the v7.3 (HDF5) MATLAB stats files in data/
+numpy>=1.24
+pillow>=10.0    # embeds/downscales figures into the notebook

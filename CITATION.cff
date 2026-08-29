@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite it as below."
+title: "Adult RHT analysis: RHT axon distribution in the SCN, wild-type vs Opn4 knockout"
+authors:
+  - family-names: Speer
+    given-names: Colenso
+    affiliation: "Speer Lab, University of Maryland"
+year: 2026
+license: CC-BY-4.0
